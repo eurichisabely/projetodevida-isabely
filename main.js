@@ -22,7 +22,7 @@ for (let i = 0; i < botoes.length; i++) {
 const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2025-12-20T00:00:00");
 const tempoObjetivo2 = new Date("2025-12-22T00:00:00");
-const tempoObjetivo3 = new Date("2025-06-07T00:00:00");
+const tempoObjetivo3 = new Date("2025-02-07T00:00:00");
 const tempoObjetivo4 = new Date("2025-12-01T00:00:00");
 //cria tempo de objetivo na classe contadores 
 
