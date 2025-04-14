@@ -2,8 +2,8 @@
 
 :root {
     --cor-de-fundo: lab(11.26% 0 0 / 0.568);
-    --verde: rgb(244, 255, 87);
-    --branco: hsl(128, 94%, 52%);
+    --verde: #000000;
+    --branco: hwb(120 6% 93%);
     --botao-ativo: hsl(245, 44%, 74%);
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
